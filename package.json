@@ -43,7 +43,7 @@
   "author": "Google Inc.",
   "license": "Apache-2.0",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/eslint-plugin": "^5.52.0",
     "@typescript-eslint/parser": "^5.0.0",
     "chalk": "^4.1.0",
     "eslint": "^8.0.0",
